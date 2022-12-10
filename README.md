@@ -41,6 +41,14 @@ python3 -m venv venv
 Установка пакетов с помощью pip:
 ![](img_1.png)
 
+
+Для запуска программы необходимо в папке проекта (в терминале) выполнить следующую команду:
+```
+python main.py
+``` 
+
+Или запустить файл через IDE (например, VS Code)
+
 --------------------
 
 This project uses python libraries (Numpy, Pandas, Matplotlib, Seaborn) to prepare, analyse and create a visual implementation of financial data.
